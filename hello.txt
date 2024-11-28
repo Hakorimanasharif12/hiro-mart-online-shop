@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello fidele 
+=======
+hello world
+>>>>>>> 21f002bf89cd2659ad78ffe547c4df599848a88e
